@@ -1,0 +1,21 @@
+{
+  "name": "summernote-leei",
+  "description": "Super simple WYSIWYG editor",
+  "main": "dist/summernote.js",
+  "authors": [
+    "susukang98@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "editor",
+    "WYSIWYG"
+  ],
+  "homepage": "https://github.com/leei/summernote",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
